@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif 'poppins';
+}
+
+
+.contact{
+    margin: 15px auto;
+    width: 50%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5%;
+    background-color: #ffcccc;
+
+}
+.contact h1{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #eb2f06;
+}
+.contact label{
+    display: block;
+}
+.contact form{
+    margin-top: 25px;
+}
+.text{
+    margin-bottom: 15px;
+    text-align: left;
+}
+.text input,
+.text form {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px 3%;
+    width: 100%;
+}
+ button{
+    width: 240px;
+    background-color: #eb2f06;
+    color: #000;
+    font-family: 'poppins';
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 0;
+    outline: 0;
+    padding: 10px 0;
+}
+.button{
+    text-align: left;
+}
+.text label{
+    margin-bottom: 10px;
+    font-family: 'poppins';
+    font-weight: 700;
+}
